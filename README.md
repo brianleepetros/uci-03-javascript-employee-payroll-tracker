@@ -1,4 +1,4 @@
-# uci-challenge-03-javascript
+# uci-03-javascript-employee-payroll-tracker
 Employee list using JavaScript object and array, using window prompt dialog box.
 
 # 03 JavaScript: Employee Payroll Tracker
